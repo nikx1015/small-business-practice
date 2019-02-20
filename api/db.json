@@ -1,0 +1,87 @@
+{
+    "employees": [
+        {
+            "name": "Loki",
+            "id": 1,
+            "departmentId": 2,
+            "computerId": 1
+        },
+        {
+            "name": "Luna",
+            "id": 2,
+            "departmentId": 1,
+            "computerId": 2
+        },
+        {
+            "name": "Odin",
+            "id": 3,
+            "departmentId": 2,
+            "computerId": 3
+        },
+        {
+            "name": "Nyx",
+            "id": 4,
+            "departmentId": 1,
+            "computerId": 4
+        },
+        {
+            "name": "Nox",
+            "id": 5,
+            "departmentId": 3,
+            "computerId": 5
+        },
+        {
+            "name": "Daisy",
+            "id": 6,
+            "departmentId": 3,
+            "computerId": 6
+        }
+    ],
+
+    "departments": [
+        {
+            "name": "floofin",
+            "id": 1
+        },
+        {
+            "name": "eating",
+            "id": 2
+        },
+        {
+            "name": "fluffin",
+            "id": 3
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "employeeId": 1,
+            "type": "Macbook Pro"
+        },
+        {
+            "id": 2,
+            "employeeId": 2,
+            "type": "Macbook Pro 2017"
+        },
+        {
+            "id": 3,
+            "employeeId": 3,
+            "type": "Acer Aspire"
+        },
+        {
+            "id": 4,
+            "employeeId": 4,
+            "type": "Dell Notebook"
+        },
+        {
+            "id": 5,
+            "employeeId": 5,
+            "type": "Macbook Air"
+        },
+        {
+            "id": 6,
+            "employeeId": 6,
+            "type": "Macbook"
+        }
+    ]
+}
